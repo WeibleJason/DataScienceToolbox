@@ -1,0 +1,9 @@
+# README for DATASCIENCETOOLBOX
+A repo that contains a script file to install various commands line tools and scripts that are
+helpful for a data science workflow.
+
+## Command Line Tools
+zsh - Z Shell
+gh - Github CLI
+git - Git CLI
+
