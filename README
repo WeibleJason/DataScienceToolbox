@@ -2,6 +2,9 @@
 A repo that contains a script file to install various commands line tools and scripts that are
 helpful for a data science workflow.
 
+## INSTRUCTIONS
+- First install zsh. The following commands will assume zsh is installed.
+
 ## Command Line Tools
 zsh - Z Shell
 gh - Github CLI
